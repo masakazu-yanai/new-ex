@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <!-- ファイルの説明（ファイル名になる） -->
+    <AssemblyName>new-ex</AssemblyName>
+    <!-- ファイルのバージョン -->
+    <VersionPrefix>3.0.0.0</VersionPrefix>
+    <VersionSuffix></VersionSuffix>
+    <!-- 製品名 -->
+    <Product>NewEx</Product>
+    <!-- 製品バージョン -->
+    <!-- {VersionPrefix}-{VersionSuffix} -->
+    <!-- 著作権 -->
+    <Copyright>Copyright (c) 2023 Masakazu Yanai</Copyright>
+    <!-- アイコン -->
+    <ApplicationIcon>../data/icon/icon.ico</ApplicationIcon>
+    <!--
+    <Authors>Masakazu Yanai</Authors>
+    <Description>"new-ex" is a context menu tool.</Description>
+    -->
+  </PropertyGroup>
+
+</Project>
