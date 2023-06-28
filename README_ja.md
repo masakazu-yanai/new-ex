@@ -192,7 +192,7 @@ OSに、どの「.NET」が存在しているかは、以下の方法で確認�
 
 **config.json**
 
-```json
+```js
 {
     "menu": {
         "font_size": 12     // フォントのサイズ

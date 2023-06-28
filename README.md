@@ -189,7 +189,7 @@ The following conversion rules apply to "menu_base" in the configuration file.
 
 The configuration file is in JSON with the following contents.
 
-```json
+```js
 {
     "menu": {
         "font_size": 12     // Font size
